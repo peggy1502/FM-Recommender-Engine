@@ -1,5 +1,5 @@
 # FM-Recommender-Engine
-Building a Recommender System using Amazon SageMaker Factorization Machines
+Build a recommender engine using Amazon SageMaker Factorization Machines
 
 ### [Notebook Part 1](fm_v3_part1.ipynb)
 ### [Notebook Part 2](fm_v3_part2.ipynb)
