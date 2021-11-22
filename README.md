@@ -5,7 +5,7 @@
 
 #### [Notebook Part 2](rating/fm_v5_part2.ipynb)
 
-#### Click [here](https://medium.com/@peggy1502/product-recommendations-for-online-retail-store-1d565e1607b7) to read this article on Medium.
+#### Click [here](https://pub.towardsai.net/product-recommendations-321a0e7c7f7b) to read this article on Medium.
 
 #### Click [here](https://github.com/peggy1502/Data-Science-Articles/blob/main/README.md) to go to my Data Science Articles repository.
 
